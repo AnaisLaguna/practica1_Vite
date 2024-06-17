@@ -46,7 +46,7 @@ export default function App() {
           <p className="tagline">Get ready for a development environment that can finally catch up with you.</p>
           <div class="actions">
             <div class="action">
-                <a class="VPButton medium brand" href="/guide/">Get Started</a>
+                <a class="VPButton medium brand" href="https://vitejs.dev/guide/">Get Started</a>
             </div>
             <div class="action">
                 <a class="VPButton medium alt" href="https://vitejs.dev/guide/why.html">Why Vite?</a>
