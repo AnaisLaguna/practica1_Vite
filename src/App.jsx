@@ -49,13 +49,13 @@ export default function App() {
                 <a class="VPButton medium brand" href="/guide/">Get Started</a>
             </div>
             <div class="action">
-                <a class="VPButton medium alt" href="/guide/why">Why Vite?</a>
+                <a class="VPButton medium alt" href="https://vitejs.dev/guide/why.html">Why Vite?</a>
             </div>
             <div class="action">
                 <a class="VPButton medium alt" href="https://github.com/vitejs/vite" target="_blank" rel="noreferrer">View on GitHub</a>
             </div>
             <div class="action">
-                <a class="VPButton medium brand" href="https://viteconf.org/23/replay?utm=vite-homepage" target="_blank" rel="noreferrer">🎉 ViteConf 23!</a>
+                <a class="VPButton medium brand" href="https://www.youtube.com/playlist?list=PLqGQbXn_GDmkOsHI7-Wrbv1GgAA4tJZhg" target="_blank" rel="noreferrer">🎉 ViteConf 23!</a>
             </div>
         </div>
       </div>
